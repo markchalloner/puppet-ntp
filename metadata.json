@@ -1,0 +1,15 @@
+{
+  "name": "markchalloner-ntp",
+  "version": "0.1.0",
+  "author": "markchalloner",
+  "summary": "This module manages NTP.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/markchalloner/puppet-ntp",
+  "project_page": "https://github.com/markchalloner/puppet-ntp",
+  "issues_url": "https://github.com/markchalloner/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
